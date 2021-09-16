@@ -7,7 +7,12 @@ Este GitHub por ahora no aportará más que un diario, espero poder agragarle un
 ## Markdown, un gran plus para ordenar textos
 Mientras más leía sobre programación y github, fuí descubriendo los varios lenguajes de marcado, ahora uso este para crear mi README.md. Tiene muchas funciones así que quiere probar a continuación algunas.
 
-### List desordenada.
+### Lista desordenada
 * Ordenas varios elementos con estas.
 * Puedes exportar después a html(debo consultar cómo)
 * Son fáciles de editar en cualquier herramienta.
+
+### Lista ordenada
+1. Helado de brownie
+2. Arroz con pollo
+3. Limonada
